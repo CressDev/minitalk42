@@ -1,0 +1,9 @@
+==22058== Memcheck, a memory error detector
+==22058== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==22058== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==22058== Command: ./client 21552 mensaje_corto
+==22058== 
+
+inicio
+
+inicio
